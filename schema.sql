@@ -6,5 +6,3 @@ CREATE TABLE animals (
     neutered boolean,
     weight_kg numeric
 );
-ALTER TABLE animals
-ADD COLUMN species TEXT;
