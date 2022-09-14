@@ -7,5 +7,3 @@ CREATE TABLE animals (
     weight_kg numeric
 );
 
-ALTER TABLE animals
-ADD COLUMN species TEXT;
