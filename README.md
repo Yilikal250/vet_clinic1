@@ -2,6 +2,9 @@
 
 > This template should be used for database related projects at Microverse.
 > Generate your own repository, update this README and edit all files content while working on projects. You should not be adding any new files unless asked otherwise.
+ 
+ SChema
+![image](https://user-images.githubusercontent.com/97841835/191423386-48a6c203-be65-4dd2-b88f-4a4b554e1dd1.png)
 
 
 ## Getting Started
